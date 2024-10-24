@@ -1,0 +1,5 @@
+lama-3.2-3B-Instruct  # From huggingface https://huggingface.co/meta-llama/Llama-3.2-3B-Instruct
+melo                  # melo folder from MeloTTS github repo https://github.com/myshell-ai/MeloTTS/blob/main/docs/install.md
+vosk-model-en-us-0.22 # Download from https://alphacephei.com/vosk/models
+vosk-model-hi-0.22
+vosk-model-gu-0.42
